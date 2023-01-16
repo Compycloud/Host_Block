@@ -1,5 +1,4 @@
 # compycloud.com - blacklisted raw Host
-
 127.0.0.1 doubleclick.net
 127.0.0.1 samsungads.com
 127.0.0.1 config.samsungads.com
