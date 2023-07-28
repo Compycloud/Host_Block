@@ -8,3 +8,4 @@
 127.0.0.1 log-config.samsungacr.com
 127.0.0.1 ads.samsung.com
 127.0.0.1 gpm.samsungqbe.com
+127.0.0.1 notifier.rarlab.com
