@@ -9,3 +9,4 @@
 127.0.0.1 ads.samsung.com
 127.0.0.1 gpm.samsungqbe.com
 127.0.0.1 notifier.rarlab.com
+127.0.0.1 valuelabs.com 
