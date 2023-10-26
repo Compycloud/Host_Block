@@ -13,3 +13,4 @@
 127.0.0.1 Unknown
 127.0.0.1 com.se
 127.0.0.1 com.cn
+127.0.0.1 myvzw.com
