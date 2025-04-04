@@ -16,3 +16,4 @@
 127.0.0.1 myvzw.com
 127.0.0.1 privatelayer.com 
 127.0.0.1 t.co
+127.0.0.1 supportinfo.in
